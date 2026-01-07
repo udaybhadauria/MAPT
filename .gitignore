@@ -1,0 +1,7 @@
+*.log
+*.pid
+*.lease
+*.db
+__pycache__/
+.env
+.secrets
